@@ -10,7 +10,8 @@ requests
 beautifulsoup4
 scikit-learn
 dash
-flask
 pip-review
 jupyter
 jupyterlab
+flask
+flask_cors

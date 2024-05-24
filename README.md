@@ -15,3 +15,9 @@ pip-review --local --interactive
 Automatically image summary generation by using BLIP from HuggingFace pretrained models. 
 
 Notebook: [blip_gradio.ipynb](./image_capture/blip_gradio.ipynb)
+
+## Chatbot
+
+A simple chatbot by using `facebook/blenderbot-400M-distill`. 
+
+Code: [chatbot_loop.py](./chatbot/chatbot_loop.py)
