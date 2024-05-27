@@ -21,3 +21,9 @@ Notebook: [blip_gradio.ipynb](./image_capture/blip_gradio.ipynb)
 A simple chatbot by using `facebook/blenderbot-400M-distill`. 
 
 Code: [chatbot_loop.py](./chatbot/chatbot_loop.py)
+
+## Speech2Text
+
+Text extraction from audio files
+
+Code: [speech2text.py](./speech2text/speech2text.py)
